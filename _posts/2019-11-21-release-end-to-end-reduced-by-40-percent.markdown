@@ -3,7 +3,6 @@ layout: post
 title:  "End-to-end release times are 40% faster"
 author: Mihai Tabara
 date:   2019-11-21 19:56:33 +0000
-categories: [blog, work]
 tags: [release, mozilla]
 ---
 
