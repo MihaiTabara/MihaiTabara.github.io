@@ -21,7 +21,7 @@
 title: Mihai Tabara's blog
 author: Mihai Tabara
 description: If you think it can't get worse, it can and it will. Always remember to multiply your ETAs by 4x.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mihaitabara.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mihaitabara
 github_username:  mihaitabara
