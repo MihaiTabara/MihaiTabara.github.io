@@ -127,5 +127,6 @@ This project has had a steep learning curve and involved lots of hours of work, 
 * [Rail](http://rail.merail.ca/) and [Rok](https://garbas.si/) for starting this project and doing the initial heavy lifting
 * [Catlee](https://atlee.ca/blog/) for tackling the tricky bits of signingscript
 * [Bhearsum](http://hearsum.ca/blog) and [NThomas](http://ftangftang.wordpress.com/) for valuable contributions in identifying ways to optimize the graph and also to shepard some of the workers over the finish line
+* [Sfraser](https://www.underhenge.org/) and [Nthomas](http://ftangftang.wordpress.com/) for aggregating CI data in order to provide dashboards for end to end release times
 * [Oremj](https://github.com/oremj) for providing us support from CloudOps along the process
 * Everyone in [RelEng](https://wiki.mozilla.org/ReleaseEngineering#Team) who, one way or another, contributed to this project along the way
