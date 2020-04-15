@@ -8,7 +8,7 @@ tags: [release, mozilla]
 
 # tl;dr
 
-_As of the 7th of April 2020, Firefox 75.0 shipped, tagging along with it, was our first official Firefox Flatpak that we
+_As of the 7th of April 2020, Firefox 75.0 shipped, tagging along with it, was our first official [Firefox Flatpak](https://flathub.org/apps/details/org.mozilla.firefox) that we
 automatically published to the Flathub store. The process has long been in the making; aside from the technical bumpy ride,
 it tells a story of great collaboration between the community and Mozilla._
 
@@ -66,7 +66,7 @@ Whether we worked together during hackathons in our Mozilla London office or via
 
 # Status
 
-As of the 7th of April 2020, Firefox 75.0 shipped, tagging along with it, was our first official Firefox Flatpak that we automatically published to the Flathub store.
+As of the 7th of April 2020, Firefox 75.0 shipped, tagging along with it, was our first official [Firefox Flatpak](https://flathub.org/apps/details/org.mozilla.firefox) that we automatically published to the Flathub store.
 Going forward, we’re automatically going to publish there with each Firefox major release. Additionally, three times a week we’re also publishing Firefox Beta to the beta channel of Flathub.
 
 For now, we’re going to let things settle and gather feedback. But in the future, we would like to ship Firefox Nightly, Firefox Beta (and potentially Firefox Devedition) as separate apps (with different application IDs) to Flathub.
