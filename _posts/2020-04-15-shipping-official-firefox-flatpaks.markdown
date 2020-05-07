@@ -31,8 +31,7 @@ When that bundle is sent over to Flathub, under the hood, there is logic that un
 
 # Firefox Flatpak
 
-At Mozilla, we’ve been already packaging and shipping Firefox into [Snaps](https://snapcraft.io/) for a while now, which is the official way of distributing Firefox for Ubuntu.
-The request for Flatpak packaging came about two years ago in [bug 1441922](https://bugzilla.mozilla.org/show_bug.cgi?id=1441922). Being able to distribute Firefox with flatpaks means that we can reach out
+At Mozilla, we’ve been already packaging and shipping Firefox into [Snaps](https://snapcraft.io/) for a while now. The request for Flatpak packaging came about two years ago in [bug 1441922](https://bugzilla.mozilla.org/show_bug.cgi?id=1441922). Being able to distribute Firefox with flatpaks means that we can reach out
 more Linux users in a measurable way. While Flatpak adoption in the Linux world is independent from Mozilla, the idea is not to replace the tarball with flatpak but to
 provide both, in addition to Snaps, going forward. Any user can still install Firefox via our Mozilla official website, but in addition can also install it via the Flathub store, should they choose for.
 
